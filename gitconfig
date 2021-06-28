@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nicholas.joshua.martin@outlook.com
+	name = Nicholas Martin
